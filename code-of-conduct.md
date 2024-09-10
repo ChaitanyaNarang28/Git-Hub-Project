@@ -1,4 +1,5 @@
-***IBM DevOps and Software Engineering Certificate Course Code of Conduct***
+<h1>***IBM DevOps and Software Engineering Certificate Course Code of Conduct***</h1>
+<br>
 Our Pledge
 We, as participants and contributors in the IBM Full Stack Software Developer Certificate Course, pledge to create a positive and inclusive learning environment for everyone, regardless of background, experience, or identity.
 
