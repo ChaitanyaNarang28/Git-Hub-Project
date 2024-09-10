@@ -30,10 +30,5 @@ Contribute to a collaborative and supportive learning community
 Enforcement
 Incidents of inappropriate behavior or academic misconduct should be reported to the course instructors or administrators for investigation. Appropriate actions will be taken based on the severity of the incident, which may include warnings, course access restrictions, or referral to Coursera for further action.
 
-Scope
-This Code of Conduct applies to all course-related activities, discussions, assignments, and assessments within the IBM Full Stack Software Developer Certificate Course.
-
-Attribution
-This Code of Conduct is adapted for the IBM Full Stack Software Developer Certificate Course and is inspired by the principles of respectful and inclusive learning.
 
 For any questions or concerns related to this code of conduct, please contact the course instructors or administrators.
